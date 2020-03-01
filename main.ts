@@ -2,15 +2,15 @@
  * Set radio group and reset the string
  */
 /**
- * Based on the movement you use, send a different letter
+ * Based on the movement you use, append a different letter
  * 
- * screen up -> a
+ * screen up -> A
  * 
- * tilt left -> b
+ * tilt left -> B
  * 
- * screen down -> c
+ * screen down -> C
  * 
- * tilt right ->
+ * tilt right -> D
  */
 /**
  * Function to set and show string based on the character
